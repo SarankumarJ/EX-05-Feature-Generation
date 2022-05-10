@@ -186,3 +186,6 @@ df5
 ```
 ## Output:-
 ![git](./screenshot.png)
+
+## Result
+Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
